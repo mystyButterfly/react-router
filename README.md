@@ -2,7 +2,7 @@
 
 This is small project for junior developers.
 
-I used here different elements from React Router. Then I learned I needed the same one. Whar's why I decide to share.
+I used here different elements from React Router. When I was learning React Router I needed the same one. That why I decide to share.
 
 I created this in React and Vite. You can see more about in internet about this. Just search "npm create vite".
 
