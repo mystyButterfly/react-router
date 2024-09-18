@@ -15,9 +15,9 @@ how to download? https://docs.github.com/en/get-started/start-your-journey/downl
 
 3. Open your folder in code editor (for example VS-code)
 
-4. Use next command:
+4. Use next command:<br/>
    nmp install
 this comand install dependency you need for this project. This command create folder node_modules and add there some folders.
-
+<br/>
    npm run dev
 this comand run this project 
