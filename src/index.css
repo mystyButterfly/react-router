@@ -1,0 +1,17 @@
+*{
+  align-items: center;
+  padding: 5px;
+  text-align: center;
+}
+body{
+  background-color: rgb(219, 162, 216);
+}
+
+h2{
+  font-size: 2rem;
+}
+
+.active {
+  font-weight: bold;
+  color: blue; 
+}
